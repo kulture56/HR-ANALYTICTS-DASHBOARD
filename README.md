@@ -1,4 +1,7 @@
 ## 📌 Overview
+
+![image](https://github.com/user-attachments/assets/9315a692-0e69-4fbb-8a8c-a7e476c575a2)
+
 The **HR Analytics Dashboard** is a powerful visualization tool designed to provide insights into key HR metrics such as **attrition rate, employee distribution, job satisfaction, performance ratings, and monthly income trends**. This dashboard enables HR professionals and business leaders to make **data-driven decisions** to improve workforce management.
 
 ## 📊 Key Features

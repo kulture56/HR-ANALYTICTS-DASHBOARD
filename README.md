@@ -1,6 +1,42 @@
 ## 📌 Overview
 
 ![image](https://github.com/user-attachments/assets/9315a692-0e69-4fbb-8a8c-a7e476c575a2)
+HR Analytics Dashboard
+Overview
+This project presents an HR Analytics Dashboard created using Power BI, designed to provide actionable insights into employee data, including attrition rates, job satisfaction, performance ratings, and more. The dashboard supports HR teams in making data-driven decisions to improve employee retention and organizational efficiency.
+
+Key Features
+Employee Metrics:
+
+Total employees: 1,470.
+Active employees: 1,233.
+Attrition count: 237 (16.12%).
+Average employee age: 36.92 years.
+Attrition Analysis:
+
+Breakdown by department (R&D, Sales, HR).
+Attrition by education field and age group (e.g., 25-34, 35-44).
+Job Satisfaction:
+
+Satisfaction ratings by job role (e.g., Research Scientist, Sales Executive, Manager).
+Identification of roles with higher dissatisfaction levels.
+Performance Ratings:
+
+Performance distribution across departments.
+Detailed view of employee ratings by job role.
+Income Analysis:
+
+Average monthly income by job role and gender.
+Insights into income disparities across roles and genders.
+Education and Demographics:
+
+Active employees by education level (Bachelor's, Master’s, Associate’s, etc.).
+Distribution by marital status and other demographic factors.
+Skills and Tools Applied
+Data Preparation: Cleaning and organizing raw HR data for analysis.
+Data Modeling: Establishing relationships and measures in Power BI.
+DAX Calculations: Creating calculated fields for advanced metrics.
+Visualization: Designing intuitive and interactive charts and graphs.
 
 The **HR Analytics Dashboard** is a powerful visualization tool designed to provide insights into key HR metrics such as **attrition rate, employee distribution, job satisfaction, performance ratings, and monthly income trends**. This dashboard enables HR professionals and business leaders to make **data-driven decisions** to improve workforce management.
 
